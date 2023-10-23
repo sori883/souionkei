@@ -1,3 +1,9 @@
+# 音声格納フォルダを除外
+wav/*.wav
+# 結果フォルダを除外
+result/*.jpg
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
